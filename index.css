@@ -1,0 +1,41 @@
+* {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.navbar {
+  background-color: black ;
+    padding: 29px 38px;
+}
+
+.navbar > span {
+    color: white ;
+}
+
+body {
+    margin : 0 ;
+}
+.main-body {
+    margin: 53px 66px 28px 38px ;
+}
+h1 {
+    margin : 0 ;
+    font-weight: 400;
+}
+
+.btn {
+    background-color: black ;
+    border: none ;
+    padding: 12px 48px ;
+    color: white ;
+    margin: 93px 0px; 
+}
+
+img {
+    width: 400px;
+    height: auto; 
+    margin: 40px 0;
+}
+
+ol, ul {
+    padding-left: 20px;
+}
